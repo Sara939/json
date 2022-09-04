@@ -1,0 +1,22 @@
+{
+     "Teachers" : [
+        {
+            "first name": "lala",
+            "last name": "bill",
+            "phon number":"054492475"
+
+        },
+        {
+            "first name": "baba",
+            "last name": "gill",
+            "phon number":"054492475"
+
+        },
+        {
+            "first name": "tata",
+            "lastname": "cill",
+            "phon number":"054492475"
+
+        }
+
+    ]}
