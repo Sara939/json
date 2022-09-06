@@ -1,24 +1,24 @@
-{
-   
-    "Teachers" : [
+    [
         {
-            "first name": "lala",
-            "last name": "bill",
-            "phon number":"054492475"
+           "id": 1,
+            "firstname": "lala",
+            "lastname": "bill",
+            "phonnumber":"054492475"
 
         },
         {
-            "first name": "baba",
-            "last name": "gill",
-            "phon number":"054492475"
+            "id": 2,
+            "firs name": "baba",
+            "lastname": "gill",
+            "phonnumber":"054492475"
 
         },
         {
-            "first name": "tata",
+           "id": 3,
+            "firstname": "tata",
             "lastname": "cill",
-            "phon number":"054492475"
+            "phonnumber":"054492475"
 
         }
 
     ]
-}
